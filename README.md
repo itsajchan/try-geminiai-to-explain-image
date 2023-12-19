@@ -2,6 +2,8 @@
 
 This Python script uses Google's Generative AI to analyze an image and explain the different components seen in it. The image is loaded using the PIL library and the analysis is done using the 'gemini-pro-vision' model from Google's Generative AI models.
 
+![Screencast of main.py in action](ExplainImageGemini.gif)
+
 ## Requirements
 
 - Python 3.6 or higher
